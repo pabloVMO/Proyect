@@ -1,8 +1,6 @@
 # Clase Conexion
 
-/*La clase Conexion simplemente nos brinda los datos que necesitados, mensajes de entrada, flujo de salida socket para el Cliente 
-y socket para el servidor, estos últimos respectivamente inicializados desde el constructor. Las clases Cliente y Servidor que veremos 
-en breve van a heredar de la clase Conexion para tener acceso a los atributos y a los sockets sin problemas*/
+
 
 
 
